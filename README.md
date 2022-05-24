@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EvertonRib
+- 👋 Oi, eu sou Everton Ribeiro
 - 👀 Estou interessado em ingressar na area da TI.
 - 🌱 Estou aprendendo JAVA e Salesforce.
 - 💞️ Gostaria de uma oportunidade, para me desenvolver e trabalhar em equipe.
