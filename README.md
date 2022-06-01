@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou Everton Ribeiro
-- 👀 Estou interessado em ingressar na area da TI.
-- 🌱 Estou aprendendo JAVA e Salesforce.
+- 👀 Quero ingressar na area da TI.
+- 🌱 Estou aprendendo estudando os sites a Alura, DIO e Salesforce.
 - 💞️ Gostaria de uma oportunidade, para me desenvolver e trabalhar em equipe.
 - 📫 Meu contato: everton.oribeiro@outlook.com
 
